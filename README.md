@@ -12,7 +12,7 @@ I am also curious to explore specialisations like natural language processing an
 Having witnessed the growing importance of data analytics across various industries, I recognize that acquiring these skills will significantly enhance my marketability and career prospects. The ability to analyze and interpret data is indispensable in my current role as a Digital Information Analyst, and this bootcamp will further strengthen my foundation in this crucial area.
 
 Specifically, I aim to:
-- Upskill my programming to streamline data manipulation and optimize workflows within the ERP system I used at work.
+- Upskill my programming to streamline data manipulation and optimize workflows within the ERP system I use at work.
 - Refine my ETL expertise to ensure efficient and accurate data integration for enhanced reporting capabilities in Power BI and Prophix.
 - Develop a comprehensive data analytics skillset to position myself competitively for future opportunities in the ever-growing data-driven landscape.
 
